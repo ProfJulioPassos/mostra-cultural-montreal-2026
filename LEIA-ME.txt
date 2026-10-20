@@ -1,0 +1,23 @@
+PASSAPORTE PARA O CONHECIMENTO — INDONÉSIA / DRAGÃO-DE-KOMODO
+
+SEM GITHUB — COMO PUBLICAR EM MENOS DE 5 MINUTOS
+
+1. Abra https://app.netlify.com/drop
+2. Entre com uma conta gratuita do Netlify para manter o mesmo endereço até o evento.
+3. Arraste ESTE ARQUIVO ZIP para a área de publicação (não é necessário GitHub).
+4. O Netlify mostrará o endereço público HTTPS terminado em .netlify.app.
+5. Abra o endereço no celular e teste se consegue girar o dragão com o dedo.
+6. Acesse também o endereço do site acrescentando /cartaz-qr.html no final.
+   Essa página cria automaticamente o QR Code CORRETO para aquele endereço.
+7. Clique em "Imprimir cartaz" e coloque-o na sala do 9º ano.
+
+Ficam públicos apenas o site educativo e o arquivo de QR Code.
+Não há formulário, login de famílias nem armazenamento de dados pessoais.
+
+O modelo 3D foi disponibilizado por 3DAssets.dev sob licença CC0 1.0.
+https://3dassets.dev/assets/exotic-wildlife-hd-komodo-dragon-a6ddad7b
+O visor 3D usa @google/model-viewer 4.4.0.
+O 3D exige conexão com a internet e navegador com suporte a WebGL.
+
+IMPORTANTE: o endereço definitivo será criado pelo Netlify após a publicação.
+A prévia dentro do ChatGPT NÃO tem link público permanente para QR Code.
